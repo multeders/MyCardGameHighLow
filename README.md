@@ -6,7 +6,15 @@
 ```sh
 git clone https://github.com/multeders/MyCardGameHighLow.git
 ```
-2. Run project
+2. move to directory
+```sh
+cd MyCardGameHighLow
+```
+3. Install project
+```sh
+npm install
+```
+4. Run project
 ```sh
 npm start
 ```
