@@ -1,4 +1,4 @@
-# High Low card game in react/reux
+# High Low card game in react/redux
 
 ### Installation
 
