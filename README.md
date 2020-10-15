@@ -1,4 +1,4 @@
-# High Low card game in react/redux
+# High Low card game in react/redux + canvas
 
 ### Installation
 
